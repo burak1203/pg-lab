@@ -1,0 +1,1 @@
+5M satırlık tabloda 25 satır dönen sorgu bile neden tüm tabloyu okuyor? Planner "tahmini satır" sayısını nereden buluyor?
